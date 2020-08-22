@@ -4,3 +4,4 @@ bugfix
 feature3
 bugfix
 hotfix
+feature4
