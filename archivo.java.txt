@@ -6,3 +6,4 @@ bugfix
 hotfix
 feature4
 feature6
+bugfix
