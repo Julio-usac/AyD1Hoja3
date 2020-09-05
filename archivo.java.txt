@@ -17,4 +17,4 @@ feature10
 feature27
 mifix
 minifix2
-release
+releasebugfix
