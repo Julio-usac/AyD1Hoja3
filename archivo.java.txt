@@ -16,3 +16,7 @@ bugfix2bugfix3
 feature10
 feature27
 1
+mifix
+minifix2
+minifix3
+feature10
