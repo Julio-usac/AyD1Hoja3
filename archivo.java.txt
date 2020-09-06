@@ -21,3 +21,6 @@ minifix2
 releasebugfix
 minifix3
 feature10
+minifix2
+minifix4
+minifix4
